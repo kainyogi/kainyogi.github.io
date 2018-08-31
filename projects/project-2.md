@@ -2,24 +2,23 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+title: Minesweeper
+permalink: projects/Minesweeper
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2016-05-01
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  -Java
+  -User Interface
+  -Breadth-First Search
+summary: A minesweeper game developed in ICS 211
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+This Minesweeper was developed as a final project in ICS 211 along with 3 other group members to test our knowledge on User Interface and Events, Breadth-First Searching, 2D array traversal, and basic Java knowledge. This game consisted of 3 modes, an easy 10x10 grid, a medium 15x15, and a hard 20x20 grid that copied mechanics from the classic Minesweeper game on windows. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+For this project, I was the lead programmer incharge of managing my other group members contributions to the source code and wrote the code for the UI shown [here](https://youtu.be/hz9P9J7P4Wc) and the main Breadth-First Search function. I utilized jPanelGrid for the main menu along with the actual game able to manage event clicks and use stock images from the internet along with personally designed icons for interactions. For the search function I used Breadth Search to iterate recursively through my 2D array to find the mines and only reveal blocks that have a value of a number up to 8. My main focus however was group collaboration and management as I made sure to keep everyone up to date to code changes, reminders of due dates, and possible meet up times. This allowed personal growth as I was able to learn how to properly manage a team making sure I accounted for all weaknesses and strengths as well as allow freedom in the coding process.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+For more information on the source code click [here]().
  
 Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>

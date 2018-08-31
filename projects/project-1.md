@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/micromouse.jpg
 title: Bank Database
-permalink: projects/micromouse
+permalink: projects/Bank_Database
 # All dates must be YYYY-MM-DD format!
 date: 2018-02-28
 labels:

@@ -15,9 +15,6 @@ summary: Personally developed a database that stored User Inputted information t
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
 This Bank Database was a project that was done in my Program Structure class At UH Manoa and was utilized as a test of my skills to follow customer specifications and basic C knowledge. This tested my knowledge on not only customer interaction but also efficient sorting and searching through a large amount of data that was to be collected through a User Interface. I learned about intuitive design as well as proper coding structure to be sure that my code can be maintained by anyone with utilization of proper documentation. After this project I would say that I am proficient in the C language, Unix Command-lines, and SCCS.

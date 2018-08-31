@@ -24,16 +24,6 @@
         "network": "linkedin",
         "username": "kainyogi",
         "url": "http://linkedin.com/in/kain-yogi-25235b16b"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
       }
     ]
   },
@@ -41,8 +31,6 @@
     {
       "name": "Artifical Intelligence and Deep Learning",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
@@ -64,7 +52,8 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "JVM"
       ]
     },
     {
@@ -92,23 +81,17 @@
   ],
   "work": [
     {
-      "company": "",
-      "position": "",
+      "company": "ROSS Stores Dress For Less",
+      "position": "Loss Prevention",
       "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": []
-    }
+      "startDate": "November 16th 2016",
+      "endDate": "May 30th 2018",
+      "summary": "Utilized proper store practices to minimize loss both internal and external",
+      "highlights": [
+        "Developed productive partnerships by recognizing associates on appropriate working behavior, following store policies, and improving in-store efficiency",
+        "Ensured the safety and security of the store products, customers, and associates by verifying that all safety procedures were being followed"
+      ]
+    }  
   ],
   "volunteer": [
     {
@@ -134,20 +117,6 @@
         "Member, ACM Manoa, 2016-Present",
         "Member, Grey Hats, 2017-Present"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    },
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
     }
   ],
   "references": [

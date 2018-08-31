@@ -1,61 +1,28 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/IMG_1419.JPG
+title: Hawaii Island Robotics Academy
+permalink: projects/HIRA
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2017-06-28
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Mentoring
+  - Lego MindStorms
+  - VEX
+summary: Along with a team of Alumni and current High School Students we Mentored over 100 students from 3rd-8th grade on the STEM field while having fun with Robots!
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/IMG_1421.JPG">
+</div>
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+The Hawaii Island Robotics Academy, or HIRA for short, is a 2 week camp focusing on the STEM field and opportunities children can have while attending school. This camp is run by Dale Olive, a physics teacher at Waiakea High School, along with volunteer students to help manage classes of 30 kids ranging from 3rd-8th grade to showcase robotics in Hawaii. The program consists of showcasing robots the school has built ranging from tiny 1 cubic inch robots to 6 foot giants of metal all to mentoring students in building and programming robots with VEX and Lego MindStorm Kits.
 
-To give you a flavor of the game, here is an excerpt from one run:
+As a volunteer for many years I have managed a very large magnitude of children from all grade levels and taught both basic building and programming techniques in a manner that appeals to them. As a mentor I have to be able to manage many types of personalities from shy to outgoing and humble to competitiveness all while managing groups that can range from 4 to 8 children on one team. However my main focus is to spark interest in the STEM field by showing that it is not only fun but very rewarding as a career path. 
 
-<hr>
+From volunteering for many years I have gained leadership qualities and is able to identify possible weaknesses in a group and use that as a foundation to complete any task. This has also taught me that there is not one way of doing things but a multitude of ways to approach any problem be it complex or very simple and I was able to use this knowledge in group work in college and lead many groups to achieving our greatest.
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+You can view the Main website [here](http://sciencefactoryhawaii.com/hira-summer-2016-registration-forms/).

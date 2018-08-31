@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/IMG_1419.JPG
+image: images/HIRA.jpeg
 title: Hawaii Island Robotics Academy
 permalink: projects/HIRA
 # All dates must be YYYY-MM-DD format!

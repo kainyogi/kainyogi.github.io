@@ -1,9 +1,9 @@
-
 ---
 layout: essay
 type: essay
-title: PLaceholder for javascript
-date: 2015-08-26
+title: PlaceHolder
+# All dates must be YYYY-MM-DD format!
+date: 2018-08-30
 labels:
   - JavaScript
   - Learning

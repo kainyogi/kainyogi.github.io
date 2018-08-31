@@ -7,9 +7,9 @@ permalink: projects/Minesweeper
 # All dates must be YYYY-MM-DD format!
 date: 2016-05-01
 labels:
-  -Java
-  -User Interface
-  -Breadth-First Search
+  - Java
+  - User Interface
+  - Breadth-First Search
 summary: A minesweeper game developed in ICS 211
 ---
 

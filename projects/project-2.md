@@ -10,7 +10,7 @@ labels:
   - Java
   - User Interface
   - Breadth-First Search
-summary: A minesweeper game developed in ICS 211
+summary: A Minesweeper game developed in 211 utilizing tree traversal and User Interface
 ---
 
 <img class="ui medium right floated rounded image" src="../images/IMG_1423.JPG">

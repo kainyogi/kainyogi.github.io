@@ -2,15 +2,15 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
+title: Bank Database
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2018-02-28
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - User Interfaces
+  - Data Gathering, Sorting, and Storing
+  - C
+summary: Personally developed a database that stored User Inputted information that utilizing Linked Lists and Insertion Sorting.
 ---
 
 <div class="ui small rounded images">
@@ -20,11 +20,10 @@ summary: My team developed a robotic mouse that won first place in the 2015 UH M
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+This Bank Database was a project that was done in my Program Structure class At UH Manoa and was utilized as a test of my skills to follow customer specifications and basic C knowledge. This tested my knowledge on not only customer interaction but also efficient sorting and searching through a large amount of data that was to be collected through a User Interface. I learned about intuitive design as well as proper coding structure to be sure that my code can be maintained by anyone with utilization of proper documentation. After this project I would say that I am proficient in the C language, Unix Command-lines, and SCCS.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+For this project, I worked as a lone programmer utilizing C as the primary coding language along with the Unix Shell command-lines as well as SCCS and I was able to produce an intuitive User Interface that collected data from User Input and sorted said data into a database for future use. My main focus was the data collection which is able to check for correct inputs, flush buffers, utilize multiple lines for data collection, and sort the data for easy reading and retrieving. Throughout this process I familiarized myself with Makefiles and SCCS for version storing and efficient compile times as well as command line syntax which is able to enter a debug mode to check for any errors in the collection process. I then coded the User Interface function to be as intuitive as possible making sure all customers and future users are able to follow along efficiently so that there is no confusion from the front end. The user interface consisted of both adding and deleting nodes from the database and retriving information based on account number. For the sorting of the data I utilized Doubly-linked lists that were able to use insertion sorting as its main sorting function with the functionality of binary searching for data retrieval. From there I was able to make sure that the data was not lost and infact stored locally so that the source code as well as the data can be transported without error. 
 
-Here is some code that illustrates how we read values from the line sensors:
 
 ```js
 byte ADCRead(byte ch)
@@ -37,8 +36,7 @@ byte ADCRead(byte ch)
     return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
 }
 ```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+You can view the Source Code here :
 
 
 

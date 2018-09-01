@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-<img class="ui tiny left circular floated image" src="../images/adventure.jpeg">
+<img class="ui medium right floated rounded image" src="../images/adventure.jpeg">
 
 Ever since a child I was introduced to a world of engineering. From having a father who moonlighted as a mechanic for all things metal and a mother who was very supportive of all my interests I began my path into the computer science field with fire in my eyes. This fire never died as all throughout growing up I have witnessed many advancements in computer science from using my first keyboard around the age of 6 to my first touch screen phone at the age of 14 to my first experience of VR at the age of 20 and I have never once thought that this was the end of the advancements as many companies both big and small push the limit of computer science. This taught me that this field is ever changing and will never be boring no matter the age. 
 

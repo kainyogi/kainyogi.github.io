@@ -13,8 +13,8 @@ labels:
 summary: Personally developed a database that stored User Inputted information that utilizing Linked Lists and Insertion Sorting.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/IMG_1421.JPG">
+<div class="ui medium right rounded images">
+  <img class="ui image" src="../images/banking.png">
 </div>
 
 This Bank Database was a project that was done in my Program Structure class At UH Manoa and was utilized as a test of my skills to follow customer specifications and basic C knowledge. This tested my knowledge on not only customer interaction but also efficient sorting and searching through a large amount of data that was to be collected through a User Interface. I learned about intuitive design as well as proper coding structure to be sure that my code can be maintained by anyone with utilization of proper documentation. After this project I would say that I am proficient in the C language, Unix Command-lines, and SCCS.

@@ -13,7 +13,7 @@ labels:
 summary: Along with a team of Alumni and current High School Students we Mentored over 100 students from 3rd-8th grade on the STEM field while having fun with Robots!
 ---
 
-<img class="ui large right floated rounded image" src="../images/ClassHira.jpg">
+<img class="ui medium right floated rounded image" src="../images/ClassHira.jpg">
 
 The Hawaii Island Robotics Academy, or HIRA for short, is a 2 week camp focusing on the STEM field and opportunities children can have while attending school. This camp is run by Dale Olive, a physics teacher at Waiakea High School, along with volunteer students to help manage classes of 30 kids ranging from 3rd-8th grade to showcase robotics in Hawaii. The program consists of showcasing robots the school has built ranging from tiny 1 cubic inch robots to 6 foot giants of metal all to mentoring students in building and programming robots with VEX and Lego MindStorm Kits.
 

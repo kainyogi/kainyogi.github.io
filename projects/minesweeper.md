@@ -13,7 +13,7 @@ labels:
 summary: A Minesweeper game developed in 211 utilizing tree traversal and User Interface
 ---
 
-<img class="ui medium right floated rounded image" src="../images/minesweeper.png">
+<img class="ui medium centered rounded image" src="../images/minesweeper.png">
 
 This Minesweeper was developed as a final project in ICS 211 along with 3 other group members to test our knowledge on User Interface and Events, Breadth-First Searching, 2D array traversal, and basic Java knowledge. This game consisted of 3 modes, an easy 10x10 grid, a medium 15x15, and a hard 20x20 grid that copied mechanics from the classic Minesweeper game on windows. 
 

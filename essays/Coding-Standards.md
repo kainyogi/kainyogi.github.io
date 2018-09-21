@@ -23,10 +23,10 @@ We have all seen bad code, we have all written bad code, and we may have got som
 	return i;}
 ```
 ```
-function countUpTo(data){
+function countUpTo(data) {
 	let sum = 0;
-	while(i < data){
-	i++
+	while(i < data) {
+		i++
 	}
 	b++;
 	return i;

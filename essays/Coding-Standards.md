@@ -14,6 +14,7 @@ labels:
 
 We have all seen bad code, we have all written bad code, and we may have got some points deducted from our projects or homework because of it. Everyone has their own personal coding standards that have been developed over time. Whether we are the type to leave the “{“ on the same line or place the “{“ on the next or whether we are a two spacer, a four spacer, or a tabber for indentation, we have all followed a general outline on our coding standards and styles to allow us, our professors, and our group members, better understand the code we are writing so that we don’t have to waste precious time, and points, to help one another understand the mess we have created. In its essence coding standards allow blocks of code to be considered “human readable”, or the ability to be understood immediately by other programmers even if they are not of the same level. These coding standards include proper indentation, proper variable declaration, and proper function naming and all of these help the “readability” of the code. Here is an example of code that is readable and unreadable.
 ```
+//unreadable code
 	function everynum(data){
 	let i = 0;
 	let b = 1;
@@ -23,13 +24,15 @@ We have all seen bad code, we have all written bad code, and we may have got som
 	return i;}
 ```
 ```
+//readable code
 function countUpTo(data) {
-	let sum = 0;
-	while(i < data) {
-		i++;
+	let counter = 0;
+	let variableThatDoesNothing = 0;
+	while(isum < data) {
+		counter++;
 	}
-	b++;
-	return i;
+	variableThatDoesNothing++;
+	return counter;
 }
 ```
 Although both codes achieve the same goal having proper indentation and figure brackets allow better readability and having proper variable names provide no ambiguity to what data is being stored. Thus, from having great readability there is great maintainability.

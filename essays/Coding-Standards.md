@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Stylish Syntax and Standards
 # All dates must be YYYY-MM-DD format!
-date: 2018-08-30
+date: 2018-09-20
 labels:
   - Syntax
   - Coding Standards

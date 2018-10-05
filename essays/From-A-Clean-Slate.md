@@ -18,7 +18,7 @@ If you told me to take a block of granite and use it to create a piece of art, I
 <img class="ui medium centered rounded image" src="../images/Browser1.png">
 </div>
 
-Iteration 1
+<div class="centered text">Iteration 1</div>
 
 <div>
 <img class="ui medium centered rounded image" src="../images/Browser2.png">

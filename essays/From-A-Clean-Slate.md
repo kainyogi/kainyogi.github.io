@@ -14,7 +14,7 @@ labels:
 
 If you told me to take a block of granite and use it to create a piece of art, I wouldn’t even know how to begin, you can give me some tools like a chisel and a hammer and I would start hammering away just to see what works and what doesn’t. This analogy is very similar to my first trial in CSS and HTML in the UI Design (Basics) section in my Software Engineering class. The tools were given to me, I finished the basic tutorial, and I was told to create a simple website, so I did, in fact I created three iterations of the same website.
 
-<img class="ui medium right floated rounded image" src="../images/browser3.png">
+<img class="ui medium right floated rounded image" src="../images/Browser3.png">
 
 Calling these iterations diamonds in the rough may be a bit too high of a praise, but with a 23:40 SD time in the first iteration to a 15:20 SD to the last, by creating something like this from scratch I would say is pretty good. Handling everything from the creation of the columns, the color of the font, the image edits, and the links in the table of contents, all hand crafted using a single HTML and a CSS file was quite an experience. The columns alone drove my time up as I tried to understand how to perfectly center each one on the same row with even spacing and don’t even get me started on the picture edits. Even the in-class exercise where we had to input links to separate websites I had an even better score of an RX time, so I would say that I can grasp the basics of CSS/HTML coding. From this point I graduated from sculpting elementary school and I was ready for the next level, UI Frameworks. 
 

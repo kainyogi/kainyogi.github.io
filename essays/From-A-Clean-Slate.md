@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: From a Clean Slate to Something Great
 # All dates must be YYYY-MM-DD format!
-date: 2018-09-20
+date: 2018-10-04
 labels:
   - HTML
   - CSS

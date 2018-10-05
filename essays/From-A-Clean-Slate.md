@@ -16,19 +16,19 @@ If you told me to take a block of granite and use it to create a piece of art, I
 
 <hr>
 <div>
-<img class="ui medium centered rounded image" src="../images/Browser1.png">
+<img class="ui large centered rounded image" src="../images/Browser1.png">
 </div>
 
 <hr>
 
 <div>
-<img class="ui medium centered rounded image" src="../images/Browser2.png">
+<img class="ui large centered rounded image" src="../images/Browser2.png">
 </div>
 
 <hr>
 
 <div>
-<img class="ui medium centered rounded image" src="../images/Browser3.png">
+<img class="ui large centered rounded image" src="../images/Browser3.png">
 </div>
 
 <hr>
@@ -39,6 +39,6 @@ Learning a UI Framework like Semantic UI was on par with the learning curve of t
 
 Semantic does provides very useful components that are “ready-to-use” and can be maintained very easily which is a great boon to software engineers who sell their skill to clients looking for an easy to maintain website. For the client, who may not be versed in the knowledge of webapps, Semantic provides a great way to just get busy with the front-end code to start modifying it to their pleasure. However, as with all frames, it contains the creativity of the creator. If the developer wants to create his or her own menu system or perhaps custom elements on the website, the UI framework that is loaded will definitely conflict with personally created elements. This looks like an easy fix from small end projects however as the project increasingly grows every issue grows with it. I myself saw some limitations with the Choice Website exercise as I could not do some elements in the website I chose to copy and thus had to settle with CSS editing. This CSS editing proved to be a an even larger burden as it constantly conflicted with the grid and column system Semantic had and I was forced to just sit there and deal with it. If my knowledge on frameworks was greater than what I have now as I write this I would’ve created my own grid system that allows more fluidity and thus can handle my CSS edits. 
 
-Here is the link to the project.
+[Here](https://github.com/kainyogi/viagelato)is the link to the project.
 
 In conclusion, Semantic UI is a great tool for web developers who develop nice front-end websites for clients who want to maintain the website by themselves. It allows an easy grasp on website building and a grasp on frameworks as well. The flaws are minor in my case for now as my knowledge is lacking however as my skill grows in this subject I may find that I am stepping away from premade frameworks and creating websites from my granite blocks again.

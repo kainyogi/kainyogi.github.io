@@ -24,10 +24,15 @@ To use this web-app, the student must login and set up a profile. The profile en
 <h3>MOCKUP IDEAS</h3>
 
 Landing page
+
 User Home Page
-Admin Home Page
+
+Admin Home Page.
+
 User Profile
+
 Schedule Page
+
 Class Page
 
 <h3>CASE IDEAS</h3>

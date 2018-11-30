@@ -9,7 +9,7 @@ labels:
   - Design Patterns
   - Semantic
 ---
-<img class="ui medium right floated rounded image" src="../images/brackets.png">
+<img class="ui medium right floated rounded image" src="../images/designashirt.jpg">
 
    Based on my knowledge before this module on design patterns, If I was interviewed and asked the two questions, what are design patterns and what design patterns have you used in code, I would put on my best fake smile and give the most roundabout answer to the interviewer that would probably put me in a worse position that I started with, however, after reading this module I can confidently say that I now have a basic understanding to what design patterns are and how they are used. At least that is an improvement, right? Now I could quote a bunch of Wikipedia pages, other webpages, and the book “Design Patterns: Elements of Reusable Object-Oriented Software” by the Gang of Four to showcase what I learned about this topic but that might be a bit to boring. Instead I will use an analogy utilizing clothes.
 

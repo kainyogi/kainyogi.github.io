@@ -36,5 +36,8 @@ labels:
 </div>
 ```
    Then if I the client gets to crazy with requests with this grid functionality I can always revert to its internal state.
-   
+```
+<div class="ui grid">
+</div>
+```
    In conclusion, although I did not know what design patterns are, I have been using them during most of my programming life. This makes me feel a bit better since I technically didn’t lie to the interviewer when asked those two questions but now, I can change that fake smile to a real smile.

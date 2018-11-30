@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Stylish Syntax and Standards
+title: Designing a T-shirt.
 # All dates must be YYYY-MM-DD format!
 date: 2018-11-29
 labels:

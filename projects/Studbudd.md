@@ -39,7 +39,7 @@ If Milestone 1 was the user interaction with the site itself and Milestone 2 was
 
 ## Conclusion
 
-In conclusion, Studbudd became the web-app we wanted it to be. It showcased mine and my group members capabilities to create a working product within a time constraint and became a project that we can all say that we are proud of.
+In conclusion, Studbudd became the web-app we wanted it to be. It showcased my knowledge in handling user ineraction with the site, database collections and how to push and pull from them, and how to manage time in an effective manner to complete a product.
 
 
 You can view the Source Code [here](https://github.com/studbudd/studbudd)

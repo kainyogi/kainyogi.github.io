@@ -53,7 +53,9 @@
         "C++",
         "Java",
         "Javascript",
-        "JVM"
+        "JVM",
+        "Frameworks/Semantic UI",
+        "Meteor/Mongo"
       ]
     },
     {

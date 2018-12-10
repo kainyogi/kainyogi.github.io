@@ -17,7 +17,7 @@ summary: Worked in a team of 5 to develop a webapp that assists students at UH M
 
 The StudBudd project was a project done in my ICS:314 Software Engineering class and served to be the culmination of all the topics and concepts that I have learned throughout the year. Studbudd is meant to be the bridge between students at UH Manoa to help find other students and classmates to effectively study with. Utilizing some social media aspects, the user can log into the webpage and view other students’ profiles and use the information there to set up study dates with each other. My four other group members and I set off to create our vision and with delicate balancing of school life, work life, and each other we have produced a functional product that we deem worthy to showcase what we have learned in this class.
 
-<img class="ui large centered rounded image" src="../images/Studbudd3-Transperent.png">
+<img class="ui large centered rounded image" src="../images/Studbudd3-transperent.png">
 
 ## Milestone 1 ##
 

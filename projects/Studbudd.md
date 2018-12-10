@@ -43,4 +43,5 @@ In conclusion, Studbudd became the web-app we wanted it to be. It showcased mine
 
 
 You can view the Source Code [here](https://github.com/studbudd/studbudd)
+
 You can view the Github.io page [here](https://studbudd.github.io/)

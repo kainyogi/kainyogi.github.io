@@ -2,15 +2,15 @@
 layout: project
 type: project
 image: images/IMG_1419.JPG
-title: Bank Database
-permalink: projects/Bank_Database
+title: StudBudd
+permalink: projects/StudBudd
 # All dates must be YYYY-MM-DD format!
-date: 2018-02-28
+date: 2018-12-09
 labels:
   - User Interfaces
-  - Data Gathering, Sorting, and Storing
-  - C
-summary: Personally developed a database that stored User Inputted information that utilizing Linked Lists and Insertion Sorting.
+  - Semantic UI
+  - Meteor/Mongo
+summary: Worked in a team of 5 to develop a webapp that assists students at UH Manoa to find study groups.
 ---
 
 <img class="ui large centered rounded image" src="../images/banking.png">
